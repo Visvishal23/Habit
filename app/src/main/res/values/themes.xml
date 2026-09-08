@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.HabitFlow" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/habitflow_primary</item>
+    </style>
+</resources>

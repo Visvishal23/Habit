@@ -1,0 +1,5 @@
+<resources>
+    <color name="habitflow_primary">#3D6E5C</color>
+    <color name="habitflow_primary_dark">#9FD8C2</color>
+    <color name="widget_background">#F4F6F5</color>
+</resources>

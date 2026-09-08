@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HabitFlow</string>
+    <string name="onboarding_title_1">Build better habits, one day at a time.</string>
+    <string name="onboarding_title_2">Track your progress privately.</string>
+    <string name="onboarding_title_3">Your data stays on your device.</string>
+    <string name="privacy_statement">Your habit data is stored locally on your device. This app does not require an account or cloud synchronization.</string>
+</resources>

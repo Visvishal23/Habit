@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- HabitFlow makes no network requests. This config exists only to explicitly
+     disable cleartext traffic in case any future dependency attempts it. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false" />
+</network-security-config>
